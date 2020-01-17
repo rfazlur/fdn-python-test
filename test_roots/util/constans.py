@@ -1,0 +1,1 @@
+FEMALEDAILY_HOME = 'https://femaledaily.com/'
